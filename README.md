@@ -1,14 +1,14 @@
 # SLOT-MACHINE
 A simple terminal-based Slot Machine game implemented using x86-64 NASM Assembly, developed as part of my Microcontroller Programming coursework to explore low-level instruction sets.
 
-### Prerequisites
+## Prerequisites
 System Requirements:
 * Operating System: Linux (Ubuntu, Debian, Fedora, Arch, etc.) or WSL on Windows
 * Architecture: x86-64 (64-bit)
 * Memory: Minimal (< 1MB)
 * Permissions: Standard user access
 
-### Pre-Installation
+## Pre-Installation
 Installs everything you need to write, assemble, and run NASM assembly programs on Linux. 
 ```
 $ sudo apt update
