@@ -16,7 +16,7 @@ $ sudo apt install nasm build-essential
 ```
 
 ## Steps
-Step 1: Create a folder and create ``` &.asm ``` file in it. Write down the code and save. 
+Step 1: Create a folder and create ``` .asm ``` file in it. Write down the code and save. 
 
 Step 2 : Open WSL and go into the project directory folder.
 ```
